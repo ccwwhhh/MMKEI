@@ -1,6 +1,6 @@
-# MMKEI
+# MLTFR
 
-MMKEI is a plug-and-play framework leveraing LLM knowledge to do sequential recommendation.
+MLTFR is a plug-and-play framework leveraing LLM knowledge to do sequential recommendation.
 
 The steps to run the code are as follows:
 
